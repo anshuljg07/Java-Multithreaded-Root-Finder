@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"InputCircularBuffer"},{"p":"<Unnamed>","l":"OutputCircularBuffer"},{"p":"<Unnamed>","l":"RootFinder"},{"p":"<Unnamed>","l":"Slave"}];updateSearchResults();
